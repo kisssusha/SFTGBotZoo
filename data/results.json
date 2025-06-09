@@ -1,0 +1,62 @@
+{
+  "ёж": {
+    "name": "БЕЛОГРУДЫЙ ЁЖ",
+    "description": "Ты можешь показаться колючим, но внутри — добряк. Любишь уединение и чтобы тебя не дёргали по пустякам.",
+    "image": "media/images/belogrudyy_ezh.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/belogrudyy_ezh"
+  },
+  "тигр": {
+    "name": "АМУРСКИЙ ТИГР",
+    "description": "Ты — харизматичный одиночка. Можешь провести день в тени, но когда выходишь — все сразу понимают, кто тут хозяин.",
+    "image": "media/images/amurskiy_tigr.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/amurskiy_tigr"
+  },
+  "пингвин": {
+    "name": "ПИНГВИН АФРИКАНСКИЙ",
+    "description": "Ты ценишь тёплую компанию даже на холодном льду. Всегда готов поддержать и встать плечом к плечу.",
+    "image": "media/images/pingvin_afrikanskiy_ochkovyy.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/pingvin_afrikanskiy_ochkovyy"
+  },
+  "тюлень": {
+    "name": "СЕРЫЙ ТЮЛЕНЬ",
+    "description": "Мастер по расслаблению. Когда все суетятся — ты уже завернулся в одеялко и делаешь мордочку «не трогай меня».",
+    "image": "media/images/seryy_tyulen.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/seryy_tyulen"
+  },
+  "барс": {
+    "name": "ИРБИС, СНЕЖНЫЙ БАРС",
+    "description": "Ты как зимняя гроза — молчаливый, быстрый и очень красивый. Хочешь, чтобы тебя уважали, а не трогали.",
+    "image": "media/images/irbis_snezhnyy_bars.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/irbis_snezhnyy_bars"
+  },
+  "медведь": {
+    "name": "БУРЫЙ МЕДВЕДЬ",
+    "description": "Ты ценишь уют, еду и возможность поспать подольше. Но если понадобится — покажешь коготки.",
+    "image": "media/images/buryy_medved.jpg",
+    "guardian_link": "hhttps://moscowzoo.ru/animals/kinds/buryy_medved"
+  },
+  "попугай": {
+    "name": "ОРЛИНЫЙ ПОПУГАЙ",
+    "description": "Тебя не заткнуть! Ты душа любой компании, яркий, говорливый и даже немного артист.",
+    "image": "media/images/orlinyy_popugay.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/orlinyy_popugay"
+  },
+  "фламинго": {
+    "name": "РОЗОВЫЙ ФЛАМИНГО",
+    "description": "Ты точно знаешь, с какой стороны свет и где тебя фоткают. Стиль и лёгкость — твоё всё.",
+    "image": "media/images/rozovyy_flamingo.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/rozovyy_flamingo"
+  },
+  "сурикат": {
+    "name": "СУРИКАТ",
+    "description": "Ты всегда на чеку! Всё замечаешь, всех координируешь. Обожаешь, когда рядом своя стая.",
+    "image": "media/images/surikat.jpg",
+    "guardian_link": "hhttps://moscowzoo.ru/animals/kinds/surikat"
+  },
+  "сова": {
+    "name": "БЕЛАЯ СОВА",
+    "description": "Ты знаешь больше, чем говоришь. Ночью тебе думается лучше всего, а днём ты просто наблюдаешь.",
+    "image": "media/images/belaya_sova.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/belaya_sova"
+  }
+}
